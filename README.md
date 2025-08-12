@@ -25,6 +25,9 @@ Google Colab is used for training and evaluation, with TensorFlow/Keras as the d
   3. Flatten
   4. Dense (Fully connected)
   5. Output layer with Sigmoid activation
+    ![Training Graph](screenshots/training_graph.png)
+    ![Sample Prediction](screenshots/sample_prediction.png)
+
 - **Loss Function:** Binary Crossentropy
 - **Optimizer:** Adam
 - **Evaluation Metric:** Accuracy
